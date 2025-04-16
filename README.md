@@ -37,7 +37,7 @@ With international experience in France, China, and Mexico, I enjoy working in m
 
 ### 📫 Let's Connect
 - 📧 Email: atmm_95@hotmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/amenchaca95) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/amenchaca95) 
 - 🌐 Languages: Spanish (native), French (B2), English (TOEFL 620), Mandarin (HSK4)
 
 ---
