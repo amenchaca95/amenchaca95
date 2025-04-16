@@ -12,8 +12,8 @@ With international experience in France, China, and Mexico, I enjoy working in m
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** Python, SQL, Bash, Java, C++, JavaScript, HTML  
-**Data Tools:** PostgreSQL, Pentaho, Power BI, Apache Airflow, Docker  
+**Languages:** Python, SQL, Bash, C, C++, Java, JavaScript, HTML, CSS  
+**Data Tools:** PostgreSQL, Pentaho PDI, Power BI, Apache Airflow, Docker  
 **Others:** Git, MediaWiki, Visual Studio, ArchiMate, Arduino
 
 ---
@@ -27,13 +27,13 @@ With international experience in France, China, and Mexico, I enjoy working in m
 
 ### 📊 Projects
 - **UNITA Data Warehouse:** Designed and deployed a PostgreSQL + Docker-based data warehouse with Pentaho ETL and MediaWiki as front-end for European academic performance indicators.  
-- *(More coming soon…)*
+- *(More coming soon…)*Visual Studio Code
 
 ---
 
 ### 📫 Let's Connect
 - 📧 Email: atmm_95@hotmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/antonio-menchaca)  
+- 💼 [LinkedIn](www.linkedin.com/in/antonio-de-jesús-menchaca-martínez-3025ab11b)  
 - 🌐 Languages: Spanish (native), French (B2), English (TOEFL 620), Mandarin (HSK4)
 
 ---
