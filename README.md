@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Antonio Menchaca!
 
-🎓 Currently completing my Master's degree in Computer Engineering – *Industry 4.0*  
+🎓 Currently completing my Master's degree in Computer Engineering – *Industry 4.0* (Université de Pau et des Pays de l'Adour)  
 🌍 Based in France 🇫🇷 | Originally from Mexico 🇲🇽 | Open to relocation and remote work
 
 ---
@@ -37,7 +37,7 @@ With international experience in France, China, and Mexico, I enjoy working in m
 
 ### 📫 Let's Connect
 - 📧 Email: atmm_95@hotmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/antonio-de-jesús-menchaca-martínez-3025ab11b/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/antonio-menchaca) 
 - 🌐 Languages: Spanish (native), French (B2), English (TOEFL 620), Mandarin (HSK4)
 
 ---
