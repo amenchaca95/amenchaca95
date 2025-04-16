@@ -19,6 +19,21 @@ With international experience in France, China, and Mexico, I enjoy working in m
 
 **Others:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MediaWiki_logo_1.svg/1024px-MediaWiki_logo_1.svg.png" alt="MediaWiki" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/ArchiMate_Logo.png" alt="ArchiMate" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40"/>
 
+<!-- Git -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
+
+<!-- MediaWiki -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/MediaWiki-2020-logo.svg" alt="MediaWiki" width="40"/>
+
+<!-- Visual Studio -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40"/>
+
+<!-- ArchiMate -->
+<img src="https://raw.githubusercontent.com/archimodel/archimate-font/main/dist/archimate-icon.svg" alt="ArchiMate" width="40"/>
+
+<!-- Arduino -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40"/>
+
 ---
 
 ### 🌱 Currently Learning
