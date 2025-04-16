@@ -1,13 +1,46 @@
-## Hi there 👋
+## 👋 Hi there, I'm Antonio Menchaca!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 Currently completing my Master's degree in Computer Engineering – *Industry 4.0*  
+🌍 Based in France 🇫🇷 | Originally from Mexico 🇲🇽 | Open to relocation and remote work
+
+---
+
+### 🚀 About Me
+I'm a passionate and curious engineer focused on building scalable, data-driven solutions for connected industries.  
+With international experience in France, China, and Mexico, I enjoy working in multicultural teams and turning complex data into meaningful insights.
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** Python, SQL, Bash, Java, C++, JavaScript, HTML  
+**Data Tools:** PostgreSQL, Pentaho, Power BI, Apache Airflow, Docker  
+**Others:** Git, MediaWiki, Visual Studio, ArchiMate, Arduino
+
+---
+
+### 🌱 Currently Learning
+- Data pipeline orchestration with **Airflow**
+- Cloud services for data engineering (AWS & GCP)
+- Real-time data processing and DataOps best practices
+
+---
+
+### 📊 Projects
+- **UNITA Data Warehouse:** Designed and deployed a PostgreSQL + Docker-based data warehouse with Pentaho ETL and MediaWiki as front-end for European academic performance indicators.  
+- *(More coming soon…)*
+
+---
+
+### 📫 Let's Connect
+- 📧 Email: atmm_95@hotmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/antonio-menchaca)  
+- 🌐 Languages: Spanish (native), French (B2), English (TOEFL 620), Mandarin (HSK4)
+
+---
+
+> “Engineering is about solving real-world problems with creativity, precision, and empathy.”
+
+
 
 
 <!--
